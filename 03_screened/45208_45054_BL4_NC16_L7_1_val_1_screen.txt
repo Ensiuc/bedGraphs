@@ -1,0 +1,20 @@
+#Fastq_screen version: 0.15.1	#Aligner: Bismark/bowtie2	#Reads in subset: 100000
+Genome	#Reads_processed	#Unmapped	%Unmapped	#One_hit_one_genome	%One_hit_one_genome	#Multiple_hits_one_genome	%Multiple_hits_one_genome	#One_hit_multiple_genomes	%One_hit_multiple_genomes	Multiple_hits_multiple_genomes	%Multiple_hits_multiple_genomes
+Human	99922	40483	40.52	273	0.27	14	0.01	53818	53.86	5334	5.34
+Rhesus	99922	8343	8.35	25334	25.35	7002	7.01	56024	56.07	3219	3.22
+Mouse	99922	98659	98.74	9	0.01	1	0.00	982	0.98	271	0.27
+Rat	99922	97291	97.37	5	0.01	1	0.00	2281	2.28	344	0.34
+PhiX	99922	99920	100.00	0	0.00	0	0.00	2	0.00	0	0.00
+Lambda	99922	99918	100.00	0	0.00	0	0.00	4	0.00	0	0.00
+
+%Hit_no_genomes: 8.02
+
+
+#Bisulfite read orientation results
+Library	#Original_top_strand	%Original_top_strand	#Complementary_to_original_top_strand	%Complementary_to_original_top_strand	#Complementary_to_original_bottom_strand	%Complementary_to_original_bottom_strand	#Original_bottom_strand	%Original_bottom_strand
+Human	157	0.29	26919	49.77	26851	49.64	164	0.30
+Rhesus	109	0.13	40560	49.85	40574	49.87	115	0.14
+Mouse	151	15.24	354	35.72	347	35.02	139	14.03
+Rat	148	6.47	937	40.99	1072	46.89	129	5.64
+PhiX	2	100.00	0	0.00	0	0.00	0	0.00
+Lambda	0	0.00	0	0.00	0	0.00	4	100.00
