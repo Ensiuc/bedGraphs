@@ -1,0 +1,44 @@
+[2024-02-01 13:10:15,058] multiqc                                            [DEBUG  ]  This is MultiQC v1.14
+[2024-02-01 13:10:15,059] multiqc                                            [DEBUG  ]  Command used: /share/lasallelab/programs/.conda/epigenerator/bin/multiqc . --ignore raw_sequences --ignore 01_raw_sequences
+[2024-02-01 13:10:15,518] multiqc                                            [WARNING]  MultiQC Version v1.19 now available!
+[2024-02-01 13:10:15,519] multiqc                                            [DEBUG  ]  Working dir : /share/lasallelab/Ensi/project/cpg_Me_oocyte
+[2024-02-01 13:10:15,519] multiqc                                            [DEBUG  ]  Template    : default
+[2024-02-01 13:10:15,519] multiqc                                            [DEBUG  ]  Running Python 3.10.9 | packaged by conda-forge | (main, Feb  2 2023, 20:20:04) [GCC 11.3.0]
+[2024-02-01 13:10:15,519] multiqc                                            [DEBUG  ]  Ignoring files, directories and paths that match: raw_sequences, 01_raw_sequences
+[2024-02-01 13:10:15,519] multiqc                                            [DEBUG  ]  Analysing modules: custom_content, ccs, ngsderive, purple, conpair, lima, peddy, somalier, methylQA, mosdepth, phantompeakqualtools, qualimap, preseq, hifiasm, quast, qorts, rna_seqc, rockhopper, rsem, rseqc, busco, bustools, goleft_indexcov, gffcompare, disambiguate, supernova, deeptools, sargasso, verifybamid, mirtrace, happy, mirtop, sambamba, gopeaks, homer, hops, macs2, theta2, snpeff, gatk, htseq, bcftools, featureCounts, fgbio, dragen, dragen_fastqc, dedup, pbmarkdup, damageprofiler, biobambam2, jcvi, mtnucratio, picard, vep, sentieon, prokka, qc3C, nanostat, samblaster, samtools, sexdeterrmine, eigenstratdatabasetools, bamtools, jellyfish, vcftools, longranger, stacks, varscan2, snippy, umitools, bbmap, bismark, biscuit, diamond, hicexplorer, hicup, hicpro, salmon, kallisto, slamdunk, star, hisat2, tophat, bowtie2, bowtie1, cellranger, snpsplit, odgi, pangolin, nextclade, humid, kat, leehom, adapterRemoval, bbduk, clipandmerge, cutadapt, flexbar, kaiju, kraken, malt, motus, trimmomatic, sickle, skewer, sortmerna, biobloomtools, fastq_screen, afterqc, fastp, fastqc, filtlong, prinseqplusplus, pychopper, porechop, pycoqc, minionqc, anglerfish, multivcfanalyzer, clusterflow, checkqc, bcl2fastq, bclconvert, interop, ivar, flash, seqyclean, optitype, whatshap
+[2024-02-01 13:10:15,520] multiqc                                            [DEBUG  ]  Using temporary directory for creating report: /tmp/tmplct1dxe9
+[2024-02-01 13:10:16,241] multiqc                                            [INFO   ]  Search path : /share/lasallelab/Ensi/project/cpg_Me_oocyte
+[2024-02-01 14:10:19,369] multiqc                                            [DEBUG  ]  Couldn't read file when checking filesize: chrUn_gl000217.data
+[2024-02-02 04:48:01,803] multiqc                                            [DEBUG  ]  Couldn't read file when checking filesize: Chn2.pickle
+[2024-02-02 05:17:05,645] multiqc                                            [DEBUG  ]  Couldn't read file when checking filesize: Slc7a2.pickle
+[2024-02-02 06:29:21,748] multiqc                                            [DEBUG  ]  Couldn't read file when checking filesize: Dlx5.pickle
+[2024-02-02 06:53:45,452] multiqc                                            [DEBUG  ]  Couldn't read file when checking filesize: Ap2a2.pickle
+[2024-02-02 06:56:09,522] multiqc                                            [DEBUG  ]  Couldn't read file when checking filesize: Sfxn4.pickle
+[2024-02-02 08:17:05,873] multiqc                                            [DEBUG  ]  Couldn't read file when checking filesize: Lrfn2.pickle
+[2024-02-02 08:52:17,890] multiqc                                            [DEBUG  ]  Couldn't read file when checking filesize: Hoxb4.pickle
+[2024-02-02 09:26:01,874] multiqc                                            [DEBUG  ]  Couldn't read file when checking filesize: Olr1383.pickle
+[2024-02-02 10:33:46,835] multiqc                                            [DEBUG  ]  Couldn't read file when checking filesize: Pdcd7.pickle
+[2024-02-02 11:34:59,024] multiqc                                            [DEBUG  ]  Couldn't read file when checking filesize: Zswim3.pickle
+[2024-02-02 12:21:24,779] multiqc                                            [DEBUG  ]  Couldn't read file when checking filesize: Gmpr2.pickle
+[2024-02-02 12:33:32,553] multiqc                                            [DEBUG  ]  Couldn't read file when checking filesize: Lbx2.1.pickle
+[2024-02-02 12:33:56,561] multiqc                                            [DEBUG  ]  Couldn't read file when checking filesize: Lrrn1.pickle
+[2024-02-02 12:47:08,946] multiqc                                            [DEBUG  ]  Couldn't read file when checking filesize: Pdcd6ip.pickle
+[2024-02-02 13:10:36,618] multiqc                                            [DEBUG  ]  Couldn't read file when checking filesize: Rhbdd3.pickle
+[2024-02-02 13:11:16,640] multiqc                                            [DEBUG  ]  Couldn't read file when checking filesize: Sult1e1.pickle
+[2024-02-02 15:22:52,764] multiqc                                            [DEBUG  ]  Summary of files that were skipped by the search: [skipped_file_contents_search_errors: 129502333] // [skipped_module_specific_max_filesize: 2657890] // [skipped_no_match: 807118] // [skipped_filesize_limit: 11160] // [skipped_ignore_pattern: 9951] // [skipped_not_a_file: 30] // [skipped_directory_fn_ignore_dirs: 9]
+[2024-02-02 15:23:06,065] multiqc.plots.bargraph                             [DEBUG  ]  Using matplotlib version 3.7.0
+[2024-02-02 15:23:06,087] multiqc.plots.linegraph                            [DEBUG  ]  Using matplotlib version 3.7.0
+[2024-02-02 15:23:06,097] multiqc                                            [DEBUG  ]  No samples found: custom_content
+[2024-02-02 15:23:11,603] multiqc.modules.picard.picard                      [INFO   ]  Found 150 InsertSizeMetrics reports
+[2024-02-02 15:23:25,237] multiqc.modules.bismark.bismark                    [INFO   ]  Found 150 alignment reports
+[2024-02-02 15:23:32,572] multiqc.modules.bismark.bismark                    [INFO   ]  Found 150 dedup reports
+[2024-02-02 15:23:43,786] multiqc.modules.bismark.bismark                    [INFO   ]  Found 150 methextract reports
+[2024-02-02 15:23:51,557] multiqc.modules.bismark.bismark                    [INFO   ]  Found 150 bismark bam2nuc reports
+[2024-02-02 15:23:56,971] multiqc.modules.fastq_screen.fastq_screen          [INFO   ]  Found 300 reports
+[2024-02-02 15:26:10,773] multiqc.modules.fastqc.fastqc                      [INFO   ]  Found 300 reports
+[2024-02-02 15:26:43,320] multiqc                                            [INFO   ]  Compressing plot data
+[2024-02-02 15:26:43,881] multiqc                                            [INFO   ]  Report      : multiqc_report.html
+[2024-02-02 15:26:43,881] multiqc                                            [INFO   ]  Data        : multiqc_data
+[2024-02-02 15:26:43,881] multiqc                                            [DEBUG  ]  Moving data file from '/tmp/tmplct1dxe9/multiqc_data' to '/share/lasallelab/Ensi/project/cpg_Me_oocyte/multiqc_data'
+[2024-02-02 15:26:45,394] multiqc                                            [INFO   ]  MultiQC complete
+[2024-02-02 15:26:45,394] multiqc                                            [WARNING]  14 flat-image plots used in the report due to large sample numbers
