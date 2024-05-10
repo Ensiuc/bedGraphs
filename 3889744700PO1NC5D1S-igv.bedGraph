@@ -1,4 +1,3 @@
-# track type=bedGraph name="Stress methylation" description="Smoothed methylation for stress group" color=255,0,0
 chr1	118287626	118287695	0.086956522
 chr1	118287638	118287707	0.04950495
 chr1	118287655	118287724	0.050505051
